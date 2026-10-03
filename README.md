@@ -4,7 +4,7 @@ About
 
 BeeTVHub covers general streaming-related information, including apps, platforms, devices, compatibility, troubleshooting, and entertainment technology.
 
-Visit the website: BeeTVHub.com
+Visit the website: https://beetvhub.com
 
 Topics
 
